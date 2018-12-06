@@ -1,5 +1,10 @@
 Simple 2D Race Track Generator
 
+### Installation
+```
+composer require amberlampsio/racetrack-generator
+```
+
 ### Requirement 
 ImageMagick
 

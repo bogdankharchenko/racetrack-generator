@@ -1,0 +1,19 @@
+{
+  "name": "amberlampsio/racetrack-generator",
+  "description": "Generate mock racetrack images on the fly",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Bogdan Kharchenko",
+      "email": "scriptor@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Amberlampsio\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.5"
+  }
+}

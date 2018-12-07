@@ -9,8 +9,8 @@ composer require amberlampsio/racetrack-generator
 ImageMagick
 
 ### Usage Examples
-```
-$track = (new RaceTrack())->drawTrack();
+```php
+$track = (new Track())->drawTrack();
         
 header("Content-Type: image/png");
 echo $track->getImageBlob();
